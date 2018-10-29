@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:background="@drawable/white_top_round"
+    android:orientation="vertical">
+
+    <app.com.foodcoupons.customviews.BoldTextView
+        android:id="@+id/txt_price_high_low"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:foreground="?selectableItemBackground"
+        android:gravity="center"
+        android:padding="@dimen/_14sdp"
+        android:text="@string/price_high_to_low"
+        android:textColor="@color/grey_text"
+        android:textSize="@dimen/_15ssp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:background="@color/grey_line" />
+
+    <app.com.foodcoupons.customviews.BoldTextView
+        android:id="@+id/txt_price_low_high"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:foreground="?selectableItemBackground"
+        android:gravity="center"
+        android:padding="@dimen/_14sdp"
+        android:text="@string/price_low_to_high"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/_15ssp" />
+
+</LinearLayout>

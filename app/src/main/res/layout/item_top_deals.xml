@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/ll_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@color/light_grey"
+        android:orientation="horizontal"
+        android:padding="@dimen/_10sdp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+
+            <app.com.foodcoupons.customviews.RegularTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:text="@string/top_deal"
+                android:textAllCaps="true"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/_10ssp" />
+
+            <app.com.foodcoupons.customviews.SemiboldTextView
+                android:id="@+id/txt_deal_offer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:text="50% off Ala-minute Ala-Carter Dinner Buffet"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_15ssp" />
+
+            <app.com.foodcoupons.customviews.RegularTextView
+                android:id="@+id/txt_get_deal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:background="@drawable/app_color_corners_round"
+                android:elevation="@dimen/_5ssp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:paddingLeft="@dimen/_8sdp"
+                android:paddingRight="@dimen/_8sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:text="Get Deal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_10ssp" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img_top_deal"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_120sdp"
+            android:src="@drawable/dinnerplate" />
+
+    </LinearLayout>
+
+</LinearLayout>

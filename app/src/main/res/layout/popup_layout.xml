@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/pop_up"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:id="@+id/ll_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="@dimen/_5sdp"
+        android:paddingBottom="@dimen/_5sdp"
+        android:paddingLeft="@dimen/_10sdp"
+        android:paddingRight="@dimen/_10sdp"
+        android:background="@drawable/pink_solid_round_corner">
+
+        <app.com.foodcoupons.customviews.RegularTextView
+            android:id="@+id/txt_edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fksaglkdgjdlkgjdgj"
+            android:textSize="@dimen/_10ssp"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_arrow"
+        android:layout_width="@dimen/_20sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:visibility="visible"
+        android:background="@drawable/triangle_down"
+        android:layout_marginLeft="@dimen/_20sdp"  />
+
+</LinearLayout>

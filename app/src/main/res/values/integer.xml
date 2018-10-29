@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_name">35</integer>
+    <integer name="max_email">125</integer>
+    <integer name="max_otp">4</integer>
+    <integer name="max_phone">18</integer>
+</resources>

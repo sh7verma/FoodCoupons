@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E83743</color>
+    <color name="colorPrimaryDark">#E83743</color>
+    <color name="colorAccent">#f79fa5</color>
+    <color name="light_colorPrimary">#f4dddf</color>
+
+    <color name="img_pink">#FF3D5F</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent_black">#d0000000</color>
+    <color name="transparent_white">#00ffffff</color>
+
+    <color name="app_color">#ffffff</color>
+    <color name="red_dark">#910909</color>
+    <color name="red_dark_selected">#760505</color>
+    <!--gursharan sir-->
+    <color name="unselected_text">#8c92b9</color>
+    <color name="white_tint">#fcf1f1</color>
+    <color name="background">#EDEFEE</color>
+    <color name="orange">#f68933</color>
+    <color name="orange_light">#f7f49142</color>
+    <color name="black_tint">#86000000</color>
+    <color name="light_black">#43000000</color>
+    <color name="black_ripple">#716f6f</color>
+    <color name="grey_line">#e1e1e1</color>
+    <color name="grey_circle">#EBEDEC</color>
+    <color name="grey_circle_txt">#D4D5D9</color>
+    <color name="grey_text">#8a99a5</color>
+    <color name="grey_text_dark">#80000000</color>
+    <color name="light_grey">#e9e9e9</color>
+    <color name="facebook">#3b579d</color>
+    <color name="facebook_tint">#5b78b4</color>
+    <color name="gmail">#dd4b39</color>
+    <color name="gmail_tint">#9dd1231d</color>
+    <color name="red">#ff0000</color>
+    <color name="dark_cyan">#2c896b</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="dark_grey">#484848</color>
+    <color name="trasparent_background">#83ffffff</color>
+    <color name="green_color">#5acf67</color>
+    <color name="dark_green_color">#009B00</color>
+
+    <color name="grey_color">#a6a6a6</color>
+    <color name="light_grey_color">#cecdcd</color>
+
+
+    <color name="yellow">#f6c02f</color>
+
+    <color name="trasparent_light">#55ffffff</color>
+    <!---->
+
+    <color name="tint_black_start_color">#08919191</color>
+    <color name="tint_black_center_color">#21171c19</color>
+    <color name="tint_black_end_color">#59000000</color>
+
+    <color name="trans_black">#50000000</color>
+    <color name="off_white">#80FFFFFF</color>
+
+
+
+</resources>

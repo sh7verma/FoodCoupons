@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Food Coupons</string>
+    <string name="mapKey">AIzaSyBp-ZPIvxfguT0ohgpA4uCza8tHqR4zOrQ</string>
+    <string name="facebook_app_id">751669568507780</string>
+    <string name="fb_login_protocol_scheme">fb751669568507780</string>
+
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="new_version">A newer version of String Messenger is available would you like to update?</string>
+    <string name="cannot_connect_server">Cannot connect to server</string>
+    <string name="error">Something went wrong!</string>
+    <string name="internet">Internet connection not available!</string>
+    <string name="success">200</string>
+    <string name="invalid_access_token">420</string>
+    <string name="someone_logedin_some_other_device">Someone has logged in from same account from other device.</string>
+    <string name="someone_register_some_other_device">Someone else has registered with same Phone number/Email id.</string>
+    <string name="account_expired">Account Expired</string>
+    <string name="lorem_ipsum_small">lorem ipsum</string>
+
+    <string name="no_data">--</string>
+    <string name="Lorem_Ipsum_large">Lorem Ipsum dolor sit amet ipsu dolor sit ame </string>
+    <string name="Lorem_Ipsum_larger">Lorem Ipsum dolor sit amet ipsu dolor sit ame Lorem Ipsum Lorem Ipsum dolor sit amet ipsu dolor sit ame Lorem Ipsum Lorem Ipsum dolor sit amet ipsu dolor sit ame Lorem Ipsum Lorem Ipsum dolor sit amet ipsu dolor sit ame Lorem Ipsum Lorem Ipsum dolor sit amet ipsu dolor sit ame Lorem Ipsum dolor sit amet ipsu dolor sit ame Lorem Ipsum dolor sit amet ipsu dolor sit ame Lorem Ipsum dolor sit amet ipsu dolor sit ame Lorem Ipsum dolor sit amet ipsu dolor sit ame </string>
+
+    <string name="title_activity_landing">LandingActivity</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Validations-->
+
+    <string name="email_not_empty">Email field cannot be empty</string>
+    <string name="email_not_valid">Please enter valid Email</string>
+    <string name="password_empty">Password field cannot be empty</string>
+    <string name="confirm_password_validation">New Password and Re-Enter New Password doesn\'t match.</string>
+    <string name="password_min_char">Password must be of minimum 8 characters</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="email_not_fetch">Email is mandatory to continue. Please grant email permission or choose other signup option.</string>
+    <string name="enter_phone_number">Please enter phone number</string>
+    <string name="pls_enter_name">Please enter your name</string>
+    <string name="start_with_zero">Phone number cannot start with zero</string>
+    <string name="invalid_phone_number">Please enter a valid phone number to continue</string>
+    <string name="register_number">Register Number</string>
+    <string name="verify_number_header_txt">Enter your Verification code we sent to</string>
+    <string name="invalid_OTP">Invalid OTP</string>
+    <string name="full_name_empty">Name cannot be Empty</string>
+    <string name="set_your_bday">Please Select Date of Birth</string>
+    <string name="fullname_length"> Name must be minimum 2 characters</string>
+    <string name="error_card_no">Enter card number</string>
+    <string name="error_valid_card_no">Enter valid card number</string>
+    <string name="error_month">Enter expiry month</string>
+    <string name="error_year">Enter expiry year</string>
+    <string name="error_valid_account">Enter valid account number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="enter_valid_otp">Enter Valid OTP</string>
+    <string name="not_alphabet">Please enter valid name</string>
+    <string name="choose_a_country">Choose a country</string>
+
+    <!-- Validations-->
+
+
+    <string name="action_settings">Settings</string>
+    <string name="next">NEXT</string>
+    <string name="walk_title4">TRANSFER COUPON</string>
+    <string name="walk_title3">LUCKY DRAW</string>
+    <string name="walk_title2"><![CDATA[EARN POINTS & REDEEM LATER]]></string>
+    <string name="walk_title1">DISCOUNT ON EVERY DEAL</string>
+    <string name="let_go">LET\'S GO</string>
+    <string name="enter_your_phone_number_on_which_otp_will_be_sent"> Enter Phone no. on which OTP will be sent.</string>
+    <string name="welcome">Welcome!</string>
+    <string name="or">OR</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="enter_the_otp_just_sent_to_your_phone_no">Enter the OTP just sent to your phone no.</string>
+    <string name="call">Call</string>
+    <string name="resend">Resend</string>
+    <string name="Did_not_receive_an_OTP">Didn\'t receive an OTP?</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="email">Email</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="select_from_gallery">Select from gallery</string>
+    <string name="view_photo">View Photo</string>
+    <string name="something_was_wrong">Something went wrong</string>
+    <string name="done">DONE</string>
+    <string name="profile">PROFILE</string>
+    <string name="brochures">BROCHURES</string>
+    <string name="nearby">NEARBY</string>
+    <string name="home">HOME</string>
+    <string name="by_creating_an_account_with_our_terms_of_use_amp_privacy_policy"><![CDATA[By creating an account with our terms of use & privacy policy.]]></string>
+    <string name="pls_accept_terms"><![CDATA[Please Accept Terms & Conditions]]></string>
+    <string name="search_a_outlet">Search a outlet...</string>
+    <string name="search_a_deal">Search a deal...</string>
+    <string name="top_deal">Top Deal</string>
+    <string name="filter">filter</string>
+    <string name="sort">sort</string>
+    <string name="all_offers">ALL OFFERS</string>
+    <string name="enter_phone_number_hint">Enter Phone no.</string>
+    <string name="select_country">Select Country</string>
+    <string name="search">Search</string>
+    <string name="enable">ENABLE</string>
+    <string name="camera_permission">Please Enable Camera Permission</string>
+    <string name="location_permission">Enable Location permission</string>
+    <string name="work_in_progress">WORK IN PROGRESS</string>
+    <string name="fetch_location">Unable to Fetch your current location</string>
+    <string name="use_current_location">USE CURRENT LOCATION</string>
+    <string name="no_result_found">NO RESULT FOUND</string>
+    <string name="recently_searched">Recently Searched</string>
+    <string name="finding_your_location">Finding your Location...</string>
+    <string name="payment_methods">PAYMENT\nMETHODS</string>
+    <string name="saved_deals">SAVED\nDEALS</string>
+    <string name="app_settings">APP\nSETTINGS</string>
+    <string name="my_deals">MY\nDEALS</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="points_available">points available</string>
+    <string name="valid_till">Valid till</string>
+    <string name="clear_all">CLEAR ALL</string>
+    <string name="filters">FILTERS</string>
+    <string name="price">PRICE</string>
+    <string name="store">STORE</string>
+    <string name="cuisine">CUISINE</string>
+    <string name="apply">APPLY</string>
+    <string name="price_low_to_high">PRICE - LOW TO HIGH</string>
+    <string name="price_high_to_low">PRICE - HIGH TO LOW</string>
+    <string name="buy_now">BUY NOW</string>
+    <string name="coupon_valid_til">Coupon valid till</string>
+    <string name="offer_description">OFFER DESCRIPTION</string>
+    <string name="navigate">Navigate</string>
+    <string name="location">Location</string>
+    <string name="more_deals_with_this_outlet">MORE DEALS WITH THIS OUTLET</string>
+
+
+</resources>
